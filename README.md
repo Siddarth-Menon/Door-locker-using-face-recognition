@@ -23,7 +23,7 @@
 - This project basically works on Computer Vision, Image Processing, & ML algorithms.
 - The relay module input pin is connected to the GPIO #7 pin and the battery + solenoid lock is connected to the output pin of the relay module.
 - The GPIO #7 pin is initialized to active high mode and the solenoid lock is in closed mode.
-- When the Pi camera detects the authorized person's face with confidence level above 70%, an active low signal is sent to the realy via the GPIO #7 pin which activates the relay, the battery then gets connected to the solenoid lock and it opens.
+- When the Pi camera detects the authorized person's face with confidence level above 70%, an active low signal is sent to the relay via the GPIO #7 pin which activates the relay, the battery then gets connected to the solenoid lock and it opens.
 - When the Pi camera detects an unauthorized person or an authorized person with less than 70% confidence level, the GPIO #7 pin remains at active high mode and the solenoid remains closed.
 
 **NOTE :** 
