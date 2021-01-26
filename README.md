@@ -7,7 +7,7 @@
 
 ## Hardware used
 
-1. Raspberry Pi 3B+ Board
+1. Raspberry Pi 3B+ Board (with all required accessories)
 2. Raspberry Pi 5MP Camera module
 3. Solenoid lock
 4. Relay module
@@ -15,4 +15,4 @@
 
 ## Working
 
-This project works on Computer Vision & Image Processing
+This project basically works on Computer Vision, Image Processing, & ML algorithms
