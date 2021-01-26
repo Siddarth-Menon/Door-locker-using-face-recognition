@@ -28,8 +28,8 @@
 
 **NOTE :** 
 
--Since the relay module we our using in this device has an inbuilt opto-coupler, the active high is basically low & active low is basically high (reversed).
--Multiple persons can be made authorized in this device.
+- Since the relay module we our using in this device has an inbuilt opto-coupler, the active high is basically low & active low is basically high (reversed).
+- Multiple persons can be made authorized in this device.
 
 ## Application
 
